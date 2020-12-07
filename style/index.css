@@ -21,7 +21,7 @@ nav {
 .navname {
   display: flex;
   justify-content: flex-start;
-  width: 20%;
+  width: 100%;
   margin-right: 40%;
   font-size: 2 rem;
 }
@@ -112,4 +112,7 @@ footer a {
   display: flex;
   text-decoration: none;
   color: darkgray;
+}
+h2 {
+  width: 100%;
 }
